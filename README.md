@@ -1,4 +1,17 @@
-# Vulcan
+                                                                                                     # Vulcan
+
+
+![Uploading Gemini_Generated_Image_u5e6zdu5e6zdu5e6 (1).png…]()
+
+
+
+
+
+
+
+
+
+
 
 Base Model: TinyLlama - https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0
 Vulcan – A Fine-Tuned AI Assistant.
