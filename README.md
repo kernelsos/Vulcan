@@ -7,3 +7,6 @@ Built with a ChatML-style dataset and fine-tuned using LoRA, Vulcan can perform 
 
 Frameworks: Hugging Face Transformers, PEFT, Datasets, and LoRA (Low-rank adapter).
 Format: ChatML JSON
+
+Fine-tuned model - https://ollama.com/gagansharmadev/vulcan
+
